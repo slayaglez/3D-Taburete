@@ -1,6 +1,12 @@
 # 3D-Taburete
 Diseño y creación virtual de un taburete junto a un visualizador en Unity3D
 
+## Índice 
+
+  - [Proceso creativo](#proceso-creativo)
+  - [Visualizador](#visualizador)
+
+
 ## Proceso creativo
 Primero diseñé las vistas del taburete que iba a crear, esto tras haber bocetado el taburete y tener ya una idea general de la pinta que iba a tener.
 
@@ -43,6 +49,14 @@ https://www.youtube.com/watch?v=y7mbEG5qH5o
 Por último un par de renderizados del taburete ya finalizado:
 
 <img src="./img/tabu.png"> <img src="./img/tabu1.png">
+<br>
+<hr>
 
+## Visualizador
 
+Para finalizar el proyecto he creado un pequeño vizualizador del proyecto en Unity3D, dentro de la carpeta Vizualizador que permite rotar el taburete usando el cubo de color blanco ubicado en la parte superior derecha de la pantalla y también ocultar y mostrar las distintas piezas en un menú a la izquierda de la pantalla.
+
+> Nota: Al hacer click en la pieza del taburete directamente se ocultará, y en el menú izquierdo, el botón con el nombre de la pieza lo activa o desactiva mientras que el boton sin nombre al lado de este último desactivará todas las piezas menos la seleccionada.
+
+Para ejecutar el visualizador descargue el proyecto y ejecute `Visualizador.exe`
 
